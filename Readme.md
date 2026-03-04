@@ -1,7 +1,5 @@
 
 
-Layered Network Security Monitoring & Fusion Detection Framework Suricata IDS + Cowrie Honeypot + Splunk Correlation Architecture CYBR 535 – Graduate Final Project March 2026 Group 1 Megan Geer Jordan Holloway Maxine Jones Kristi Raines Tyler Skirble Project Overview This graduate-level pro
-
 pasted
 # Layered Network Security Monitoring & Fusion Detection Framework
 
