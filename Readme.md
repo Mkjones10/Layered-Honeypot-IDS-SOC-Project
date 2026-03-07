@@ -5,10 +5,6 @@ pasted
 
 **Suricata IDS + Cowrie Honeypot + Splunk Correlation Architecture**
 
-> CYBR 535 – Graduate Final Project | March 2026
-
-**Group 1** — Megan Geer · Jordan Holloway · Maxine Jones · Kristi Raines · Tyler Skirble
-
 ---
 
 ##  Table of Contents
